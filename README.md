@@ -1,16 +1,36 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi there! I’m Ritik
+I’m a passionate Java Developer currently working at Cratas Techno Solutions Pvt Ltd. I love building efficient backend systems, solving real-world problems with clean code, and continuously learning new technologies.
 
-<!--
-**Ritiksahu007/Ritiksahu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 What I Do:
+💼 Backend Development using Java, Spring Boot, and MySQL
 
-Here are some ideas to get you started:
+🔍 Debugging and optimizing code for performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning & implementing DSA, System Design, and Clean Code Principles
+
+🤖 Exploring automation using Selenium, Jsoup, and Apache POI
+
+📚 Currently Focused On:
+🔁 Mastering Spring Boot and Microservices
+
+📈 Improving my DSA skills with Striver’s Sheet
+
+💡 Building real-world projects for practical experience
+
+📫 Let’s Connect:
+💼 LinkedIn (replace with your real link)
+
+📧 Email: your.email@example.com
+
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+Java HTML5 Python AWS Spring Apache Tomcat MySQL MongoDB MicrosoftSQLServer Canva Adobe Photoshop Pandas NumPy TensorFlow scikit-learn PyTorch Matplotlib Docker
+
+📊 GitHub Stats:
+
+
+
+
