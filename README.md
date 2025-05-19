@@ -21,7 +21,7 @@ I’m a passionate Java Developer currently working at Cratas Techno Solutions P
 📫 Let’s Connect:
 💼 LinkedIn (replace with your real link)
 
-📧 Email: your.email@example.com
+📧 Email: ritiksahu600@gmail.com
 
 🌐 Socials:
 LinkedIn email
